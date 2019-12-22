@@ -1,5 +1,5 @@
 # data source
-datasource.driverClassName=org.mysql.jdbc.Driver
+datasource.driverClassName=com.mysql.jdbc.Driver
 datasource.url=jdbc:mysql://10.10.20.97:3306/;
 datasource.username=root
 datasource.password=123456
